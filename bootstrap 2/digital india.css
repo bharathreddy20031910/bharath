@@ -1,0 +1,439 @@
+body{
+	background-color:white;
+	width:100%;
+	margin:auto;
+	margin:0px;
+	padding:0px;
+	overflow-x:hidden;
+}
+
+#main{
+	background-color:white;
+	width:100%;
+	margin:auto;
+	
+}
+
+.header{
+width:100%;
+height:50px;
+background-color:#001f67;
+}
+.box{
+width:50%;
+height:50px;
+float:left;
+color:white;
+padding-top:12px;
+font-size:17px;
+}
+.box1{
+width:50%;
+height:50px;
+float:right;
+color:white;
+padding-top:6px;
+font-size:17px;
+}
+.header1{
+width:100%;
+height:65px;
+background-color:;
+display:flex;
+}
+.box2{
+width:40%;
+height:65px;
+background-color:;
+display:flex;
+padding:10px;
+}
+
+.box3{
+width:60%;
+height:65px;
+background-color:;
+padding:10px;
+display:flex;
+}
+nav ul{
+list-style:none;
+	margin: 0px;
+	padding:0px;
+	position:relative;
+		padding-top:6px;
+}
+
+ nav ul li {
+	float:left;
+	padding:10px;
+	display:inline-block;
+	padding-left:10px;
+
+}
+ nav  a{
+	text-decoration:none;
+	padding:10px;
+	font-size:18px;
+	font-family:arial;
+	color:black;
+	padding-top:8px;
+ }
+ 
+ nav ul li a:hover{background:white;
+ 
+ }
+ .material-icons{
+ padding-top:12px;
+ }
+.header2{
+width:100%;
+height:620px;
+padding-top:15px;
+margin:auto;
+}
+.header3{
+width:100%;
+height:540px;
+display:flex;
+}
+
+.box4{
+height:300px;
+width:33%;
+padding:10px;
+}
+.box5{
+height:300px;
+width:33%;
+padding:10px;
+}
+.box6{
+height:300px;
+width:33%;
+padding:10px;
+}
+h1{
+font-family:arial;
+font-size:36px;
+padding-left:70px;
+padding-top:40px;
+}
+.slider{
+padding:10px;
+line-height:0px;
+padding-left:40px;
+margin-top:40px;
+}
+.slider1{
+padding:20px;
+line-height:0px;
+padding-left:20px;
+display:flex;
+margin-top:15px;
+}
+.aa {
+width:60%;
+}
+.aa img{
+height:180px;
+}
+.bb {
+width:40%;
+}
+.slider2{
+padding:20px;
+line-height:0px;
+padding-left:20px;
+display:flex;
+margin-top:20px;
+}
+.aa1 {
+width:60%;
+float:left;
+}
+.bb1 {
+width:40%;
+float:right;
+}
+.slider3{
+padding:20px;
+line-height:0px;
+padding-left:50px;
+display:flex;
+}
+.slider4{
+padding:20px;
+line-height:0px;
+padding-left:50px;
+display:flex;
+margin-top:10px;
+border-radius:50px;
+}
+.slider5{
+padding:20px;
+line-height:0px;
+padding-left:50px;
+display:flex;
+margin-top:10px;
+border-radius:50px;
+}
+#grad1{
+background: linear-gradient(180deg, #E3DDFF 36.69%, #A99AEA 89.14%);
+}
+#grad2{
+background: linear-gradient(180deg, #FFCAE4 0%, #FFADD6 100%);
+}
+#grad3{
+
+    background: linear-gradient(180deg, #FFEFA4 0%, #E3CA54 100%);
+}
+#grad4{
+background: linear-gradient(94.66deg, #FFD9CB -2.76%, #FFAC8E 98.43%);
+}
+#grad5{
+    background: linear-gradient(180deg, #F8FAFF 9.11%, #89AEFF 100%);
+}
+#grad6{
+background: linear-gradient(180deg, #EDFFE4 7.31%, #B1DA9D 94.92%);
+}
+.header4{
+height:100px;
+width:100%;
+background-color:#B35400;
+
+}
+.header4 h1{
+color:white;
+font-family:arial;
+font-size:34px;
+padding-bottom:2px;
+}
+.header5{
+height:420px;
+width:100%;
+   background-color:#dda5dc ;
+   display:flex;
+}
+.slider6{
+width:30%;
+padding-left:70px;
+padding-top:80px;
+
+}
+.slider7{
+width:70%;
+display:flex;
+padding-top:30px;
+}
+button{
+border-radius:20px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color:orange;
+  margin-left:100px;
+  border:none;
+}
+button:hover{
+background-color:white;
+ color: orange;
+}
+.p1{
+width:33%;
+
+}
+.p2{
+width:33%;
+
+}
+.p3{
+width:33%;
+
+
+}
+.sp1{
+background-color:white;
+margin-top:20px;
+margin-right:20px;
+width:90%;
+}
+.sp2{
+background-color:white;
+margin-top:20px;
+margin-right:20px;
+width:90%;
+}
+.sp3{
+background-color:white;
+margin-top:20px;
+margin-right:20px;
+width:90%;
+
+}
+.header6{
+width:100%;
+height:160px;
+margin:60px;
+}
+.header7{
+height:130px;
+width:100%;
+margin:25px;
+}
+.button1{
+border-radius:20px;
+  color: orange;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color:white;
+  margin-top:20px;
+  border:none;
+}
+.button1:hover{
+background-color:orange;
+color:white;
+
+}
+.button3{
+border-radius:20px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color:orange;
+  margin-top:20px;
+border:none;
+}
+.button2{
+border-radius:20px;
+  color: orange;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color:white;
+  margin-left:700px;
+  border-color:orange;
+}
+.button2:hover{
+background-color:orange;
+color:white;
+
+}
+.header8{
+height:100px;
+width:100%;
+margin:25px;
+}
+.header9{
+height:200px;
+width:100%;
+margin:25px;
+display:flex;
+}
+.dd1{
+width:40%;
+border-radius:50px;
+}
+.dd2{
+width:25%;
+}
+.dd3{
+width:35%;
+}
+.header10{
+height:180px;
+width:100%;
+margin:25px;
+display:flex;
+}
+.header11{
+height:70px;
+width:100%;
+margin:25px;
+display:flex;
+}
+.header12{
+height:170px;
+width:100%;
+margin:10px;
+display:flex;
+}
+.slider11{
+height:450px;
+width:25%;
+margin:15px;
+
+}
+.bottom{
+height:350px;
+width:100%;
+background-color:;
+    background: #254EAC url(https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/footerbg-double.svg);
+    background-repeat: no-repeat;
+display:flex;
+}
+.bt1{
+width:30%;
+height:350px;
+}
+.bt1 img {
+margin-left:100px;
+margin-top:50px;
+}
+.bt2{
+width:70%;
+height:350px;
+display:flex;
+}
+.dd{
+width:25%;
+height:350px;
+margin:30px;
+color:white;
+font-family:Calibri;
+line-height:22px;
+}
+nav ul ul{
+	display:none;
+position:absolute;
+top:35px;	
+background-color:white;
+	 
+ }
+ 
+ nav ul ul li a:hover{background-color:white;}
+ 
+ nav ul li:hover > ul {display:inherit;}
+ 
+ nav ul ul li{
+	 width:200px;
+	 float:none;
+	 display:list-item;
+	 position:relative;
+	 font-family:Sans-serif;
+	 font-size:8px;
+	 color:black;
+	 background-color:white;
+ }
+ li > a::after {content:'^';}
+ li > a:only-child::after{content:'';
+ }

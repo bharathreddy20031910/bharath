@@ -1,0 +1,334 @@
+body{
+background-color:white;
+	width:100%;
+	margin:auto;
+	margin:0px;
+	padding:0px;
+	overflow-x:hidden;
+}
+#main{
+	background-color:white;
+	width:100%;	
+}
+.header{
+width:100%;
+height:50px;
+background-color:#001f67;
+}
+.box{
+width:50%;
+height:50px;
+float:left;
+color:white;
+padding-top:12px;
+font-size:17px;
+}
+.box1{
+width:50%;
+height:50px;
+float:right;
+color:white;
+padding-top:6px;
+font-size:17px;
+}
+.header1{
+width:100%;
+height:65px;
+background-color:;
+display:flex;
+}
+.box2{
+width:40%;
+height:65px;
+background-color:;
+display:flex;
+padding:10px;
+}
+
+.box3{
+width:60%;
+height:65px;
+background-color:;
+padding:10px;
+display:flex;
+}
+nav{
+	background:white;
+}
+
+nav ul{
+list-style:none;
+	margin: 0px;
+	padding:0px;
+	
+		padding-top:6px;
+}
+
+ nav ul li {
+
+	
+	display:inline-block;
+	
+
+}
+ nav  a{
+	text-decoration:none;
+	padding:10px 20px;
+	font-size:18px;
+	font-family:arial;
+	color:black;
+	line-height:50px;
+
+ }
+ nav ul ul{
+	       display:none;
+		   position:absolute;
+ }
+ nav ul li a:hover{background:white;
+ 
+ }
+  
+ nav ul ul li a:hover{background-color:white;}
+ nav ul li:hover > ul {
+                 display:inherit;}
+ 
+  nav ul ul li{
+	 width:200px;
+	 float:none;
+	 display:list-item;
+	 position:relative;
+	 font-family:Sans-serif;
+	 font-size:8px;
+	 color:black;
+	 background-color:white;
+ }
+ li > a::after {content:'^';}
+ li > a:only-child::after{content:'';
+ }
+ 
+ .material-icons{
+ padding-top:12px;
+ }
+.header2{
+    background-image: url(https://cdn.digitalindiacorporation.in/wp-content/uploads/2024/08/About-Us.png);
+background-size:cover;
+width:100%;
+height:150px;
+}
+h1{
+color:white;
+font-family:arial;
+font-size:30px;
+padding-top:45px;
+margin-left:80px;
+}
+.header3{
+width:100%;
+height:350px;
+display:flex;
+}
+.slider1{
+width:55%;
+HEIGHT:300px;
+font-family:Candara;
+margin:30px;
+}
+h5{
+font-family:Calibri;
+font-size:20px;
+}
+.slider2{
+width:45%;
+height:300px;
+}
+button{
+border-radius:20px;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: ;
+  cursor: pointer;
+  background-color:orange;
+  margin-left:100px;
+    border:none;
+}
+.header4{
+width:100%;
+height:300px;
+display:flex;
+background-color: #faadf9;
+background-image: url(	https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/servicebg.svg);
+    background-size: cover;
+}
+.slider3{
+width:25%;
+height:300px;
+}
+.aa{
+width:75%;
+height:200px;
+background-color:white;
+margin:30px;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.header5{
+width:100%;
+height:50px;
+text-align:center;
+background-color: #faadf9;
+background-image: url(	https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/servicebg.svg);
+    background-size: cover;
+}
+.header4 h4{
+  font-size: 24px;
+  font-family:arial;
+  color:orange;
+  margin:30px;
+}
+.header4 p {
+font-size: 18px;
+  font-family:arial;
+  color:gray;
+  margin:10px;
+}
+h2{
+  font-size: 40px;
+  font-family:arial;
+  color:orange;
+  margin:10px;
+}
+.button2{
+border-radius:12px;
+  color: orange;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color:white;
+   border:none;
+}
+.button2:hover {
+  background-color:orange; 
+  color: white;
+}
+.button3{
+border-radius:12px;
+  color: white;
+  padding: ;
+  border:none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color:orange;
+}
+.header6{
+width:100%;
+height:70px;
+text-align:center;
+background-color: #faadf9;
+margin-right:100px;
+background-image: url(	https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/servicebg.svg);
+    background-size: cover;
+}
+.top{
+width:100%;
+height:700px;
+margin-left:100px;
+  background: url(	https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/ellipse6bg.svg);
+  background-size: 100% 100%;
+}
+.header7{
+width:85%;
+height:150px;
+background-color: ;
+margin-right:;
+    background-image: url(	https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/servicebg.svg);
+    background-size: cover;
+}
+
+.slider4{
+width:100%;
+height:70px;
+text-align:center;
+}
+.slider5{
+width:100%;
+height:70px;
+display:flex;
+  text-align:center;
+  margin-left:100px;
+}
+.header8{
+width:85%;
+height:500px;
+background-color: ;
+margin-right:;
+    background-image: url(	https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/servicebg.svg);
+    background-size: cover;
+}
+.slider6{
+width:100%;
+height:250px;
+display:flex;
+}
+.bb{
+width:33.3%;
+height:250px;
+}
+.bb1{
+width:85%;
+height:230px;
+background-color:white;
+margin-left:35px;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ border-radius:12px;
+}
+.bb1 img{
+margin-left:20px;
+margin-top:20px;
+}
+.bb1 p{
+margin-left:20px;
+margin-top:20px;
+font-family:Calibri;
+font-size:15px;
+}
+.bottom{
+height:350px;
+width:100%;
+background-color:;
+    background: #254EAC url(https://cdn.digitalindiacorporation.in/wp-content/themes/di-child/assets/images/footerbg-double.svg);
+    background-repeat: no-repeat;
+display:flex;
+}
+.bt1{
+width:30%;
+height:350px;
+}
+.bt1 img {
+margin-left:100px;
+margin-top:50px;
+}
+.bt2{
+width:70%;
+height:350px;
+display:flex;
+}
+.dd{
+width:25%;
+height:350px;
+margin:30px;
+color:white;
+font-family:Calibri;
+line-height:22px;
+}
+
